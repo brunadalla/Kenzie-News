@@ -1,17 +1,12 @@
-# m2-entrega-kenzie-news-sprint6
+## Kenzie News 
+Projeto realizado no segundo módulo do curso de **Formação em Desenvolvimento Full Stack da Kenzie Academy Brasil**.
 
-- ├── src
-- │   ├── controllers
-- │   ├── models   
-- │   └── app.js      
-- └── index.html
+Criação de uma página de notícias, a qual exibe todas as manchetes disponíveis na API do Kenzie News.
 
+Tarefas realizadas:
+- Requisições na **API** utilizando os conceitos do **fetch**;
+- Utilização do **DOM** para mostrar as notícias e construir os seus cards de maneira dinâmica;
+- Implementação utilizando **POO (Programação Orientada a Objetos)**;
+- Layout **responsivo**.
 
-
-**src** - Esse diretório é um nome padrão que o utilizamos em projetos Javascript, então vamos utilizá-lo por convenção para estar alinhado ao que é utilizado no nosso conteúdo e no mercado.
-
-**controllers** - Diretório onde vão ficar os arquivos de controle. A camada de controle é responsável por intermediar as requisições enviadas e as respostas fornecidas pelo Model, processando os dados que o usuário informou e repassando para outras camadas.
-
-**models** - Diretório onde vão ficar seus modelos. Os modelos são as classes que gerenciam e controlam a forma como os dados se comportam por meio das funções, lógica e regras de negócios estabelecidas.
-
-**app.js** - Arquivo onde vão ficar as configurações de inicialização da sua aplicação.
+**https://kenzie-news.vercel.app/**
